@@ -1,0 +1,3 @@
+export const BLOCKS_COUNT = 100;
+export const API_RATE_LIMIT = 5;
+export const API_KEY = 'UV64YQ6TZW44FKYZTJ6SIQYBSNS2MK8ABD';
